@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antonio Trinidad Mercedes
+- 👋 Hola, Soy Antonio Trinidad Mercedes
 - 👀 Estoy interesado en realizar Proyectos interesantes
 - 🌱 algunos framework como viu.js y profundizando mis conocimietos en react.js
 - 💞️ buscando proyectos interesantes para colaborar
